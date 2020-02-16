@@ -1,7 +1,9 @@
 # Bulk Obfuscate PHP
-If you often update your php froject and want to obfuscate your source code
+If you often update your php project and want to obfuscate your source code
 You may be familiar with https://tools.kodigen.com/online-tools/php-obfuscator
-But I'm too lazy to obfuscate every single file one by one :( 
+
+I'm too lazy to obfuscate every single file one by one :( 
+copy paste and copy paste game
 
 **Step 1**
 download the repo and run the command  ``pip install requirements.txt``
